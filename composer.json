@@ -1,0 +1,18 @@
+{
+    "name": "akbarjimi/shebagenerator",
+    "description": "Sheba Generator",
+    "type": "library",
+    "require-dev": {
+        "orchestra/testbench": "^6.0@dev",
+        "phpunit/phpunit": "^9.2@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohammad akbari",
+            "email": "mohammad.akbari@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
